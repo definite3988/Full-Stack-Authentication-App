@@ -77,7 +77,3 @@ PORT=4000
 * JWT, bcrypt
 * Docker / Docker Compose
 * Git & GitHub
-
----
-
-Do you want me to do that?
